@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 100vw;
   margin: auto;
   text-align: center;
 }
@@ -63,4 +63,5 @@ margin-top: 15%;
 text-shadow: 5px 5px 2px black;}
 @media (max-width:768px){
   h1{font-size:3rem;}
+  p{font-size:1rem;}
 }
