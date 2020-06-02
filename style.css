@@ -61,3 +61,6 @@ font-family:'piedra', cursive;
 line-height: 1.5;
 margin-top: 15%;
 text-shadow: 5px 5px 2px black;}
+@media (max-width:768px){
+  h1{font-size:3rem;}
+}
